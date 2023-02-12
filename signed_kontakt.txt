@@ -1,36 +1,44 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
+#Kontakt na sk-market
+**Návrat na hlavnú stránku: rentry.co/sk-market**
 Ako kontaktovať sk-market v prípade, že chceš info ohľadom objednávky, alebo objednávku vytvoriť.
 
+
 - - Telegram
-	- t.me/sk_market_KD - momenálne nevidíme secret chat, ani žiadosť o pridanie sa do secret chatu, preto odporúčame každú správu enkryptovať
+	- t.me/sk_market_KD - momenálne nevidíme secret chat, ani žiadosť o pridanie sa do secret chatu, preto odporúčame každú správu enkryptovať ručne
 	- t.me/bratislava_market - trhovisko, kde môže každý inzerovať čokoľvek, čo spĺňa [obchodné podmienky](https://rentry.co/sk-market-obchodne-podmienky)
+- - Matrix
+     - [@sk_market:matrix.org] - komunikujeme s plnou funkčnosťou. Chat je end-to-end enkryptovaný.
+     - [matrix.to/#/#sk-market:matrix.org](https://matrix.to/#/#sk-market:matrix.org) - trhovisko, kde môže každý inzerovať čokoľvek, čo spĺňa [obchodné podmienky](https://rentry.co/sk-market-obchodne-podmienky)
+- - Jabber/XMPP
+	- sk-market@jabber.hot-chilli.eu - Po kontaktovaní nás priložíme fingerprinting kód pre OTR komunikáciu.
 - - E-mail
-	- sk-market@tutanota.com - adresa sa v budúcnosti zmení
+	 - sk-market@tutanota.com - email na nás
 - - iné
-	- momentálne je iná komunikácia nedostupná, ale v budúcnosti očakávaj XMPP, signal ale aj facebook, instagram a možno aj session.
+	- momentálne je iná komunikácia nedostupná. 
 
 Aby boli údaje správy chránené, musíš správu tzv. enkryptovať. My ti pošleme naspäť komunikáciu chránenú heslom, ktoré nám v správe poskytneš. 
 Ako správu enkryptovať správu?
 1. privnote.com - nič nerobíš iba napíšeš správu a pošleš link. Správa však nieje enkryptovaná, ale dostane sa k nej iba prvý, čo na link klikne.
-2. privnote.org - správu enkryptuješ pomocou pgp [kľúča](https://pastebin.com/3KVWt2M3) od "show security options" zadáš do "PGP Encrypt + Protect Access" celý náš kľúč, ktorý celý skopíruješ odtiaľto (pastebin.com/3KVWt2M3). Nezabudni zafajknúť "encrypt message (server-side)". 
-3. pgptool.org -  pod záložkou "Encrypt (+Sign)" zadáš do "Reсeiver's Public Key" náš [kľúč](https://pastebin.com/3KVWt2M3). Správu zadáš do "Your Message in Plain Text" a nám pošleš to, čo ti vyhodí "Encrypted PGP Message" po stlačení "Encrypt the message".
+2. privnote.org - správu enkryptuješ pomocou pgp [kľúča](https://github.com/sk-market/kontakt/blob/main/public_sk-market.txt) od "show security options" zadáš do "PGP Encrypt + Protect Access" celý náš kľúč, ktorý celý skopíruješ odtiaľto (pastebin.com/3KVWt2M3). Nezabudni zafajknúť "encrypt message (server-side)". 
+3. pgptool.org -  pod záložkou "Encrypt (+Sign)" zadáš do "Reсeiver's Public Key" náš [kľúč](https://github.com/sk-market/kontakt/blob/main/public_sk-market.txt). Správu zadáš do "Your Message in Plain Text" a nám pošleš to, čo ti vyhodí "Encrypted PGP Message" po stlačení "Encrypt the message".
 4. GnuPG - linux CLI  - https://gnupg.org/
 -----BEGIN PGP SIGNATURE-----
 
-iQJPBAEBCgA5FiEEi6W7tln2FyZOTY4Tc0BP/IXuHFIFAmPoLtEbHHNsb3Zhay1t
-YXJrZXRAdHV0YW5vdGEuY29tAAoJEHNAT/yF7hxSFsIQAL6Jk2+o/BJY97giMd99
-6ImoAHBo9HHk85uw/UKwD5sifG5QdQuFB9QcP17b7fgaNEvgmFBGg9N13fytPVgW
-nhS0kdvBPQzFXsbkmDoLgzZ130ISTPY7JqlJblt6eQrh9recjFyI9+XGe4pjDLja
-gVS7xlMqd3FlbpzKts7izlb1n/46PYhMdpTFp0HBPw6I5BcagAQNTqtSUI3DjXOE
-xrm6esc6oohbH+ysGBLVXXZ46gAQvuXKlmg0+isdlSbvYH2fAgJtB8MF0GhVlxTR
-XSL6xz+7KEkuTLyhVM7AtI8hT74pq1NiRHpZKpEtJwYoJjlX9ilRSWZIlJhx6bdj
-q/wCQ3uySHrKLnwUABFcwgcEdQmLBYvqWjzdpd4WlO2TfVAywsXaa3JTLW9FS43t
-4Z3U5708jMyvrOwPQIcKtMxo3V9qdM1/qpdGxtUyCM7NhvlsH25QgmQIIj12fuGu
-+Cb6ykRHsT/VKVGtr6abpTl8Adwo4T/0lfPgw5hZe5axIMHX6OfqxsoWB2kOYfgp
-vXkH76kErGIfkjxSuvFogWDZ4rhdGItHdvi31mLlG2lBr4AASapplh7q3jMUVq9r
-Qn51vro0M791LZJ+hAE+upXQ6/aEsbyNXWPskMNjkVS7E2Efzwl62pIwo9Ks7qM5
-lIXE5ZFXNMt50t3n4HErDlKW
-=z1LW
+iQJPBAEBCgA5FiEEi6W7tln2FyZOTY4Tc0BP/IXuHFIFAmPoMRgbHHNsb3Zhay1t
+YXJrZXRAdHV0YW5vdGEuY29tAAoJEHNAT/yF7hxS3aEP/1pP7dxcLJx37/SqP5ky
+rvEb6/5G+lgQmBqGFDMcegriTGIHb5STMVyQirwofqkpLUPCEjzvHZ//vu/ZQ/dD
+uKZUs7Il/UAGDQD5z1vigpEFTD2x22NAt6GouGPQ2mZpNjKpKdIESI2IqnR9fS1c
+yGeONOVu4tKlv6GArSS2e/vTM9KXOsvLBGapPcuJWHzo/Glv8ndvJdl2IPNQxnFu
+7coEEXC509BQ5DJI/VZR/D8KUeaEqXW6CM88LuS0PnhyWj4SgkK3/Tsv7zhdwdZp
+1vr1E/DRHTy7E5mUfwQdUzlFQAchNritTCk9RXvB4mlqW8rDVQVvA40tY5Wv3kI8
+ckW1a9IoTmxXsqyR8zQbjd4bTlPdjbFmdl6tOlcP9gs7ecXnHbfZbL5saeo59odb
+1ySKWGmpdiyd9vltRelxqsM2bPRgHNpbgYGw8psiHq5fTCPT2D6Wf0BncrfWDvLi
+czsl4b7bxUnBm1USqPPYzqG1cLumErugUdEmSrBhczC2bE3VcvKd0LfXCOKNy66D
+c+pPM7m6ezjqLsRUsU+IUfQmsXMysspIwI2/SEXMvIHN0dLB0wDwUp0fkPuxg6U6
+rJjp9lrqCEk4LI+icRxLer0/Nls9di2Im9+Fq2jt6j0zYSDLwhY8zg53qfVi+YND
+7ANxH3w6rwxuhd03zPtGLCS6
+=ejoU
 -----END PGP SIGNATURE-----
