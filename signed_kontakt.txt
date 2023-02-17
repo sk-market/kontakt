@@ -1,8 +1,6 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
-#Kontakt na sk-market
-**Návrat na hlavnú stránku: rentry.co/sk-market**
 Ako kontaktovať sk-market v prípade, že chceš info ohľadom objednávky, alebo objednávku vytvoriť.
 
 
@@ -13,9 +11,9 @@ Ako kontaktovať sk-market v prípade, že chceš info ohľadom objednávky, ale
      - [@sk_market:matrix.org] - komunikujeme s plnou funkčnosťou. Chat je end-to-end enkryptovaný.
      - [matrix.to/#/#sk-market:matrix.org](https://matrix.to/#/#sk-market:matrix.org) - trhovisko, kde môže každý inzerovať čokoľvek, čo spĺňa [obchodné podmienky](https://rentry.co/sk-market-obchodne-podmienky)
 - - Jabber/XMPP
-	- sk-market@jabber.hot-chilli.eu - Po kontaktovaní nás priložíme fingerprinting kód pre OTR komunikáciu.
+	- sk-market@jabber.hot-chilli.eu - Fingerprint: BB7065C1 C17BCFEB 4BF9977C F6DB0AA6 C4AB9FD6
 - - E-mail
-	 - sk-market@tutanota.com - email na nás
+	 - sk-market@tutamail.com - email na nás. Mail posielaj s priloženým heslom. Na dekrypciu odpovede bude potreba zrovna toto heslo.
 - - iné
 	- momentálne je iná komunikácia nedostupná. 
 
@@ -27,18 +25,17 @@ Ako správu enkryptovať správu?
 4. GnuPG - linux CLI  - https://gnupg.org/
 -----BEGIN PGP SIGNATURE-----
 
-iQJPBAEBCgA5FiEEi6W7tln2FyZOTY4Tc0BP/IXuHFIFAmPoMRgbHHNsb3Zhay1t
-YXJrZXRAdHV0YW5vdGEuY29tAAoJEHNAT/yF7hxS3aEP/1pP7dxcLJx37/SqP5ky
-rvEb6/5G+lgQmBqGFDMcegriTGIHb5STMVyQirwofqkpLUPCEjzvHZ//vu/ZQ/dD
-uKZUs7Il/UAGDQD5z1vigpEFTD2x22NAt6GouGPQ2mZpNjKpKdIESI2IqnR9fS1c
-yGeONOVu4tKlv6GArSS2e/vTM9KXOsvLBGapPcuJWHzo/Glv8ndvJdl2IPNQxnFu
-7coEEXC509BQ5DJI/VZR/D8KUeaEqXW6CM88LuS0PnhyWj4SgkK3/Tsv7zhdwdZp
-1vr1E/DRHTy7E5mUfwQdUzlFQAchNritTCk9RXvB4mlqW8rDVQVvA40tY5Wv3kI8
-ckW1a9IoTmxXsqyR8zQbjd4bTlPdjbFmdl6tOlcP9gs7ecXnHbfZbL5saeo59odb
-1ySKWGmpdiyd9vltRelxqsM2bPRgHNpbgYGw8psiHq5fTCPT2D6Wf0BncrfWDvLi
-czsl4b7bxUnBm1USqPPYzqG1cLumErugUdEmSrBhczC2bE3VcvKd0LfXCOKNy66D
-c+pPM7m6ezjqLsRUsU+IUfQmsXMysspIwI2/SEXMvIHN0dLB0wDwUp0fkPuxg6U6
-rJjp9lrqCEk4LI+icRxLer0/Nls9di2Im9+Fq2jt6j0zYSDLwhY8zg53qfVi+YND
-7ANxH3w6rwxuhd03zPtGLCS6
-=ejoU
+iQIzBAEBCgAdFiEEi6W7tln2FyZOTY4Tc0BP/IXuHFIFAmPvW/UACgkQc0BP/IXu
+HFIeTg/+IIFvxK8S54q5JXMkHlheap21LDMtjTJj9IMV434P7ey1fF1ZMpviFpCV
+KKW7UVefymMEUSvN56QoHQeOSOIkjb1tsLh7GUzBIH1I6n5FpagEaf4kiOIA1EQx
+y51dI326IqLMaG0hphsu/AFGmNCyQMi/hxnlOawakQAv0LOLfhAvA2yrhAQ6RrmI
+atRjRbGx9wP+DRUFpX7kH/lAFyAy4mAI/j4lqX7dpCz2X6f8BY+yiRM8qqVKuDFi
+bJPWd79g4CIq/8ueGLN1TIEdA6BcXZ6ryfGYB73O3W0on/0GcfCrEIZGXNwJCO84
+3y6Z62rI4QeZq9V/FJ9CDxJlrPrN6XSp8mVTPRFrl9pM31u0ePkkyGx1adBqTaDq
+ax/I0oTAYaELsc+03qqCklvcM+vmP/Gfz9cion3PESTc0QUY73HPpW1Ltwfjvf8u
+NJmF9qD+1CfolDcCg2coFV5RnToOH7jElq7SN02Dl1cGqi4EQ4j57pYtWpjxSTv+
+U2UAIp4EzXHsIhZXcC6J4J85i9txu3CXFtSwpPp3JVOkCNft+nr1rBb36/AjCaoj
+2ekdC7Ep6h33daFUrKeVSl2HqLc+YqWyGfq9J/sUWBrrwbFzFa/FjP4Gp12K8yHq
+q8BGaHuABl2cfT1lxclhtJRrHl264QVKa3+e4Xh8EtK2deGvJMQ=
+=TJuc
 -----END PGP SIGNATURE-----
