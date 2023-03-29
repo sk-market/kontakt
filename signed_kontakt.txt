@@ -6,18 +6,20 @@ Ako kontaktovať sk-market v prípade, že chceš info ohľadom objednávky, ale
 
 - - Telegram
 	- t.me/sk_market_KD - momenálne nevidíme secret chat, ani žiadosť o pridanie sa do secret chatu, preto odporúčame každú správu enkryptovať ručne
-	- t.me/bratislava_market - trhovisko, kde môže každý inzerovať čokoľvek, čo spĺňa [obchodné podmienky](https://rentry.co/sk-market-obchodne-podmienky)
+	- t.me/bratislava_market - trhovisko, kde môže každý inzerovať čokoľvek, čo spĺňa [obchodné podmienky](sk-market-obchodne-podmienky)
 - - Matrix
-     - [@sk_market:matrix.org] - komunikujeme s plnou funkčnosťou. Chat je end-to-end enkryptovaný.
-     - [matrix.to/#/#sk-market:matrix.org](https://matrix.to/#/#sk-market:matrix.org) - trhovisko, kde môže každý inzerovať čokoľvek, čo spĺňa [obchodné podmienky](https://rentry.co/sk-market-obchodne-podmienky)
-- - Jabber/XMPP
-	- sk-market@jabber.hot-chilli.eu - Fingerprint: BB7065C1 C17BCFEB 4BF9977C F6DB0AA6 C4AB9FD6
+     - @sk_market:matrix.org - komunikujeme s plnou funkčnosťou. Chat je end-to-end enkryptovaný.
+     - [matrix.to/#/#sk-market:matrix.org](https://matrix.to/#/#sk-market:matrix.org) - trhovisko, kde môže každý inzerovať čokoľvek, čo spĺňa [obchodné podmienky](sk-market-obchodne-podmienky)
+- - Jabber/XMPP - návod ako nám poslať správu cez [XMPP rentry.co/sk-market-xmpp](sk-market-xmpp)
+	-  sk-market@xmpp.sg - Fingerprint: 744D5C5A 7FD2B4E1 7A783BCF B0207211 2E89830E
+											   Fingerprint2: C4066786 C1DAB45E 26790BC1 D786E9CD EE3B26B9
 - - E-mail
 	 - sk-market@tutamail.com - email na nás. Mail posielaj s priloženým heslom. Na dekrypciu odpovede bude potreba zrovna toto heslo.
 - - iné
 	- momentálne je iná komunikácia nedostupná. 
 
 Aby boli údaje správy chránené, musíš správu tzv. enkryptovať. My ti pošleme naspäť komunikáciu chránenú heslom, ktoré nám v správe poskytneš. 
+[PGP kľúč](https://pastebin.com/3KVWt2M3) je kompletne celý obsah textového dokumentu 
 Ako správu enkryptovať správu?
 1. privnote.com - nič nerobíš iba napíšeš správu a pošleš link. Správa však nieje enkryptovaná, ale dostane sa k nej iba prvý, čo na link klikne.
 2. privnote.org - správu enkryptuješ pomocou pgp [kľúča](https://github.com/sk-market/kontakt/blob/main/public_sk-market.txt) od "show security options" zadáš do "PGP Encrypt + Protect Access" celý náš kľúč, ktorý celý skopíruješ odtiaľto (pastebin.com/3KVWt2M3). Nezabudni zafajknúť "encrypt message (server-side)". 
@@ -25,17 +27,17 @@ Ako správu enkryptovať správu?
 4. GnuPG - linux CLI  - https://gnupg.org/
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEi6W7tln2FyZOTY4Tc0BP/IXuHFIFAmPvW/UACgkQc0BP/IXu
-HFIeTg/+IIFvxK8S54q5JXMkHlheap21LDMtjTJj9IMV434P7ey1fF1ZMpviFpCV
-KKW7UVefymMEUSvN56QoHQeOSOIkjb1tsLh7GUzBIH1I6n5FpagEaf4kiOIA1EQx
-y51dI326IqLMaG0hphsu/AFGmNCyQMi/hxnlOawakQAv0LOLfhAvA2yrhAQ6RrmI
-atRjRbGx9wP+DRUFpX7kH/lAFyAy4mAI/j4lqX7dpCz2X6f8BY+yiRM8qqVKuDFi
-bJPWd79g4CIq/8ueGLN1TIEdA6BcXZ6ryfGYB73O3W0on/0GcfCrEIZGXNwJCO84
-3y6Z62rI4QeZq9V/FJ9CDxJlrPrN6XSp8mVTPRFrl9pM31u0ePkkyGx1adBqTaDq
-ax/I0oTAYaELsc+03qqCklvcM+vmP/Gfz9cion3PESTc0QUY73HPpW1Ltwfjvf8u
-NJmF9qD+1CfolDcCg2coFV5RnToOH7jElq7SN02Dl1cGqi4EQ4j57pYtWpjxSTv+
-U2UAIp4EzXHsIhZXcC6J4J85i9txu3CXFtSwpPp3JVOkCNft+nr1rBb36/AjCaoj
-2ekdC7Ep6h33daFUrKeVSl2HqLc+YqWyGfq9J/sUWBrrwbFzFa/FjP4Gp12K8yHq
-q8BGaHuABl2cfT1lxclhtJRrHl264QVKa3+e4Xh8EtK2deGvJMQ=
-=TJuc
+iQIzBAEBCgAdFiEEi6W7tln2FyZOTY4Tc0BP/IXuHFIFAmQknXIACgkQc0BP/IXu
+HFIRwg//WWhegvBq/efnxmsDtZGdgMwbrS2oNYiBan9Bue3iQ8u0GHLF8Vi63SbQ
+o+Z+nZkGFAAjrzPGU9fh5+7oyvWjEQ+doUz9+tuUrC6j2z7tnxiQlbElHb8RQ0qA
+miS0eR4VaI3qKCAeSvPAacWE8AvgGPpK4Vg238tM+q/pSs5JJZbKLzfWBWvjckLI
+nfZQD9IR3JtxYdi6F1M9UEu/MObqaCrR+aDZ/3O1tAEXVDbRI4iPpgcV04fBq+O0
+WKn6cyWBQB0S2S1zyCiAM/hW0ROkY4ylBuD3r7NEHK0TJwnj/nblbkRrNi55JYm0
+Lmkx8driL41LNxlhotEgssoZqox6IpWCKqnmTHXkNVUvgyVV3rk1pcWXdU1+gQ8w
+nxicaLBUNVxGId6bhSuZ2Zs+VF85pR4d4djEeBp3z1R9OSwcsFME0wu1dZHfItrZ
+rlb23M8ewvnkVv1bxyTKKEqwibburiOKCJYXPR2mSNv6tV3GEu097Fw5jYCog/Al
+rDj4JU3onQ3RcfqfJtWEEuqNmFYa7UWvrc5hkKc3u5Xb/9Bpldiu3jhJwZqqyQpZ
+Y+tGIGW274sM23RkZTRfa1zAXMDtBKjnJuJ9uoSKehHeGWJB1rCpGrNTNDaC7x0s
+giMViSPaf3bivTweb2rEqLxofwvzI5VUYV7YQaAwOKnyHPH1GXo=
+=ehoZ
 -----END PGP SIGNATURE-----
